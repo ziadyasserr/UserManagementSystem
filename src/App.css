@@ -1,0 +1,28 @@
+.login-container {
+  background: linear-gradient(rgba(254, 157, 0, 0.9), rgba(254, 157, 0, 0.7));
+}
+
+/* @media (max-width: 1024px) and (min-width: 768px) {
+  .responsive-tablet {
+    width: 80% !important;
+  }
+} */
+
+.pos-style::before {
+  content: ' ';
+  position: absolute;
+  width: 5px;
+  height: 100%;
+  top: 0;
+  left: -15px;
+  background-color: #feaf00;
+}
+
+.sidebarContainer {
+  background-color: #f2eae1;
+  /* background-color: red; */
+}
+.form-control{
+  margin-bottom: 5px !important;
+}
+
